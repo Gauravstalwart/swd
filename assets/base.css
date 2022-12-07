@@ -2370,7 +2370,7 @@ input[type='checkbox'] {
 
 .header__icon:not(.header__icon--summary),
 .header__icon span {
-  display: non;
+  display: none;
   align-items: center;
   justify-content: center;
 }
