@@ -2330,7 +2330,7 @@ input[type="checkbox"] {
 .header__heading,
 .header__heading-link {
   grid-area: heading;
-  justify-self: center;
+  justify-self: flex-start;
 }
 
 .header__heading-link {
