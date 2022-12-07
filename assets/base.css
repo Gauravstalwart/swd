@@ -2613,7 +2613,7 @@ details[open] > .header__submenu {
   }
 
   .header--top-center .header__inline-menu {
-    justify-self: center;
+    justify-self: flex-end;
   }
 
   .header--top-center .header__inline-menu > .list-menu--inline {
