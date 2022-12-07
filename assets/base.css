@@ -2611,7 +2611,8 @@ details[open] > .header__submenu {
   .header__inline-menu {
     display: flex;
     align-items: center;
-    justify-contant: flex-end;
+    justify-content: flex-end;
+    
   }
 
   .header--top-center .header__inline-menu {
