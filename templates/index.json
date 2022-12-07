@@ -165,7 +165,7 @@
           "settings": {
             "title": "Caption",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "link_label": "Rread More",
             "link": ""
           }
         },
@@ -174,7 +174,7 @@
           "settings": {
             "title": "Iron Men",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "link_label": "Rread More",
             "link": ""
           }
         },
@@ -183,7 +183,7 @@
           "settings": {
             "title": "Thor",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "link_label": "Rread More",
             "link": ""
           }
         }
