@@ -2613,11 +2613,11 @@ details[open] > .header__submenu {
   }
 
   .header--top-center .header__inline-menu {
-    justify-self: flex-end;
+    justify-self: center;
   }
 
   .header--top-center .header__inline-menu > .list-menu--inline {
-    justify-content: center;
+    justify-content: flex-end;
   }
 
   .header--middle-left .header__inline-menu {
