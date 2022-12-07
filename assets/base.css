@@ -2276,8 +2276,8 @@ input[type="checkbox"] {
 
 .header {
   display: grid;
-  grid-template-areas: "left-icon heading";
-  grid-template-columns: 1fr 2fr;
+  grid-template-areas: "heading left-icon";
+  grid-template-columns: 2fr 1fr;
   align-items: center;
 }
 
